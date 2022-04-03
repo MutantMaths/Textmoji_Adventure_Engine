@@ -333,7 +333,7 @@ list = [ # start location list
     "w": "yes",
     "biome": "forest",
     "title": "A Dark Forest",
-    "description": "A thick forest packed full of trees. The canopy is so high that little sunlight makes it down this far.",
+    "description": "A thick forest packed full of trees. The canopy is so high that only a little sunlight makes it down this far. It looks like you might be able to crawl through the undergrowth to the South.",
   },
   
   {
